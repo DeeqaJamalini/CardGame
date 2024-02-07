@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7147deef-07f7-49ba-8fc7-7f35734b02a7" name="Changes" comment="added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/cardgame/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cardgame/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/cardgame/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cardgame/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/cardgame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cardgame/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/cardgame/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cardgame/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/cardgame/Snap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cardgame/Snap.java" afterDir="false" />
-    </list>
+    <list default="true" id="7147deef-07f7-49ba-8fc7-7f35734b02a7" name="Changes" comment="final commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707311956954</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="final commit">
+      <option name="closed" value="true" />
+      <created>1707326029894</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707326029894</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +166,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="added classes" />
     <MESSAGE value="added" />
-    <option name="LAST_COMMIT_MESSAGE" value="added" />
+    <MESSAGE value="final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="final commit" />
   </component>
 </project>
