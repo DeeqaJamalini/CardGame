@@ -1,4 +1,4 @@
-# Snap Game
+# Snap Card Game
 
 ## Overview
 
