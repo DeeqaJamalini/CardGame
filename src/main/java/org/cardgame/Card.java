@@ -1,10 +1,9 @@
 package org.cardgame;
 
 class Card {
-    private int value;
-
-    private String suit;
-    private String type;
+    private final int value;
+    private final String suit;
+    private final String type;
 
     public Card(String suit, String type, int value) {
 
@@ -17,7 +16,6 @@ class Card {
         return suit;
     }
 
-
     public int getValue() {
         return value;
     }
@@ -25,7 +23,6 @@ class Card {
     public String getType() {
         return type;
     }
-
 
     @Override
     public String toString() {

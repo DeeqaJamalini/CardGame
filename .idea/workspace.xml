@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7147deef-07f7-49ba-8fc7-7f35734b02a7" name="Changes" comment="added classes">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/cardgame/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/cardgame/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/cardgame/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/cardgame/Snap.java" afterDir="false" />
+    <list default="true" id="7147deef-07f7-49ba-8fc7-7f35734b02a7" name="Changes" comment="added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cardgame/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/cardgame/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cardgame/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/cardgame/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cardgame/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/cardgame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cardgame/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/cardgame/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cardgame/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/cardgame/Snap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cardgame/Snap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +24,14 @@
       </list>
     </option>
   </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -49,7 +53,9 @@
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "actions.on.save"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Main">
@@ -113,7 +119,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707151453468</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added">
+      <option name="closed" value="true" />
+      <created>1707311944086</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707311944086</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added">
+      <option name="closed" value="true" />
+      <created>1707311956954</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707311956954</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,6 +164,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="added classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="added classes" />
+    <MESSAGE value="added" />
+    <option name="LAST_COMMIT_MESSAGE" value="added" />
   </component>
 </project>
